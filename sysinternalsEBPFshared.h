@@ -32,9 +32,7 @@
 #define SYSINTERNALS_EBPF_SHARED_H
 
 #include <stdbool.h>
-#ifndef EBPF_CO_RE
 #include <stdint.h>
-#endif
 #include <sysinternalsEBPFoffsets.h>
 
 //
